@@ -1,7 +1,6 @@
 hello , today try to learn github
 
 are you ready?
-add git
-
+try to detele one row and update one row for this .
 test text
 hello
