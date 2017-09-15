@@ -1,3 +1,6 @@
 hello , today try to learn github
 
 are you ready?
+add git
+
+test text
